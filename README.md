@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Shyamgopal Biswas</h1>
 <h3 align="center">An Aspiring Full Stack Developer</h3>
 <img align="right" alt="Coding" width=400" src="https://media.licdn.com/dms/image/D4D22AQFHHmo3RMgAlg/feedshare-shrink_2048_1536/0/1704007506977?e=2147483647&v=beta&t=2QyLIsqH3rRaY2TOZqGItT53LoTXNrBFQcvIccPmGzA">
