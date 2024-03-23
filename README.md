@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shyamgopalbiswas22114@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/kzfbj0](https://rb.gy/kzfbj0)
+- 📄 Know about my experiences https://drive.google.com/file/d/1ugyIpx4oi0jrnJBte-S4CMkxuIiGkwED/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
